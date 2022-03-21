@@ -1,5 +1,7 @@
 # DigiSoc Automation Suite
 
+**NOTE: this project has been moved to https://github.com/digisoc/automation-suite**
+
 Automation tools designed by Andrew Xie (2021) to improve internal workflow for UNSW Digital Society (DigiSoc).
 
 Two main tools have been written to achieve this:
